@@ -1,8 +1,13 @@
-### 김동석 포트폴리오 단어장
+### Java VocaBook Project
 
+### 목차
+> 1. [실행 영상](#실행-영상)
+> 2. [프로그램 특징](#프로그램-특징)
+> 3. [UI/기능](#UI/기능)
+> 4. [메인 기능](#메인-기능)
+
+## 실행 영상
 https://youtu.be/lsM--nhJvpc?si=UZFOxNKhFORPbbpf
-
-## Java VocaBook Project
 
 ## 프로그램 특징
 
