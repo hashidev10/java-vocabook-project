@@ -3,8 +3,9 @@
 ### 목차
 > 1. [실행 영상](#실행-영상)
 > 2. [프로그램 특징](#프로그램-특징)
-> 3. [UI/기능](#UI/기능)
+> 3. [UI 설명](#UI-설명)
 > 4. [메인 기능](#메인-기능)
+> 5. [후기](#후기)
 
 ## 실행 영상
 https://youtu.be/lsM--nhJvpc?si=UZFOxNKhFORPbbpf
@@ -18,7 +19,7 @@ https://youtu.be/lsM--nhJvpc?si=UZFOxNKhFORPbbpf
 
 ![image](https://github.com/user-attachments/assets/2c66c710-3474-4029-8262-47b67022963d)
 
-## UI/기능
+## UI 설명
 
 ![image](https://github.com/user-attachments/assets/b3c5118d-c750-4cd3-89ac-fb6c081424ad)
 
