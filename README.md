@@ -9,4 +9,14 @@ https://youtu.be/lsM--nhJvpc?si=UZFOxNKhFORPbbpf
 1. 깔끔하고 보기 쉬운 사용자 친화 UI
 2. 즐겨 찾기, 서식 변경 등 편의 기능
 3. 효율적인 단어 암기를 위한 암기 모드
-4. 학습진행도를 체크할 수 있는 연습 게임  
+4. 학습진행도를 체크할 수 있는 연습 게임
+
+![image](https://github.com/user-attachments/assets/2c66c710-3474-4029-8262-47b67022963d)
+
+## UI/기능
+
+![image](https://github.com/user-attachments/assets/b3c5118d-c750-4cd3-89ac-fb6c081424ad)
+
+
+
+
